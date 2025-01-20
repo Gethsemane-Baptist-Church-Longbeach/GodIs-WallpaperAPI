@@ -1,4 +1,4 @@
-<h1 align="center">🎨 <a href="https://github.com/Gethsemane-Baptist-Church-Longbeach/GodIs-WallpaperAPI">GodIs Wallpaper API</a></h1>
+<h1 align="center">🎨 <a href="https://github.com/Gethsemane-Baptist-Church-Longbeach/God-is-Wallpaper-API">God-is Wallpaper API</a></h1>
 
 <h4 align="center">📱 A Flask-based API for delivering monthly wallpapers and thumbnails designed for various devices.</h4>
 
@@ -8,8 +8,8 @@
   <a href="https://github.com/ronknight/ronknight/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
   <a href="https://github.com/ronknight/ronknight/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
   <a href="https://youtube.com/@PinoyITSolution"><img src="https://img.shields.io/youtube/channel/subscribers/UCeoETAlg3skyMcQPqr97omg"></a>
-  <a href="https://github.com/Gethsemane-Baptist-Church-Longbeach/GodIs-WallpaperAPI/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
-  <a href="https://github.com/Gethsemane-Baptist-Church-Longbeach/GodIs-WallpaperAPI/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+  <a href="https://github.com/Gethsemane-Baptist-Church-Longbeach/God-is-Wallpaper-API/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+  <a href="https://github.com/Gethsemane-Baptist-Church-Longbeach/God-is-Wallpaper-API/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
   <a href="https://github.com/ronknight"><img src="https://img.shields.io/badge/Made%20with%20%F0%9F%A4%8D%20by%20-Ronknight%20-%20red"></a>
 </p>
 
@@ -43,7 +43,7 @@ The **GodIs Wallpaper API** is a Flask-powered RESTful API that provides inspira
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Gethsemane-Baptist-Church-Longbeach/GodIs-WallpaperAPI.git
+   git clone https://github.com/Gethsemane-Baptist-Church-Longbeach/God-is-Wallpaper-API.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
@@ -160,7 +160,7 @@ Contributions are welcome! To get started:
 ---
 
 ## 📝 License
-This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/Gethsemane-Baptist-Church-Longbeach/GodIs-WallpaperAPI/blob/master/LICENSE) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/Gethsemane-Baptist-Church-Longbeach/God-is-Wallpaper-API/blob/master/LICENSE) file for details.
 
 ---
 
